@@ -266,3 +266,18 @@ Cybersecurity / SOC Enthusiast
 ---
 
 ⭐ **Enterprise Active Directory SOC & PAM Lab — Security Monitoring, Detection Engineering, Investigation & Evidence-Driven SOC Operations**
+
+
+---
+
+## Portfolio navigation
+
+This repository is part of my hands-on cybersecurity learning portfolio by **Alen Sales K S**. I document lab work to make the methodology, evidence, limitations, and lessons learned easier to review.
+
+- [NetTrace — Network Traffic Analysis](https://github.com/zales2004/NetTrace)
+- [Splunk SOC L1 Investigation](https://github.com/zales2004/splunk-soc-l1-incident-investigation)
+- [Greenholt Phishing Investigation](https://github.com/zales2004/greenholt-phishing-investigation)
+
+## Scope and responsible use
+
+All security testing described here is for authorized training environments, intentionally vulnerable targets, or systems I own or have permission to assess. Findings should be interpreted in the context of the documented lab and supporting evidence; they should not be treated as proof of compromise on unrelated real-world systems.
